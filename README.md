@@ -22,6 +22,7 @@
 
 ### Demostração da Aplicação
 * Foco no desenvolvimento CSS.
+* <a href="https://thunderous-pie-987796.netlify.app/">Teste o projeto</a>
 <img src="code.png">
 
 ### Como executar o projeto
