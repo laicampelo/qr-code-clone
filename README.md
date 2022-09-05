@@ -22,7 +22,7 @@
 
 ### Demostração da Aplicação
 * Foco no desenvolvimento CSS.
-<img src="qrcode.png">
+<img src="code.png">
 
 ### Como executar o projeto
 
